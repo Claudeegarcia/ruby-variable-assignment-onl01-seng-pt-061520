@@ -1,7 +1,12 @@
+greeting
 tags:
   - variable assignment
-  - variables
+  - variable
 languages:
   - ruby
-resources: 2
-
+resources:greeting
+greeting
+greeting = "hello World"
+run learn
+quit
+learn

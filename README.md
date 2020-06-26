@@ -1,7 +1,7 @@
 # Variable Assignment
 
 ## Objectives
-
+https://learn.co/tracks/online-software-engineering-pt-first-mile/first-mile/variables-and-methods/variable-assignment-lab#
 1. Assign a local variable.
 
 ## Instructions
